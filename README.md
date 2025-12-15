@@ -11,11 +11,11 @@ This tool processes sequences from a FASTA file input and provides biological ca
 ## Usage
 This project requires both `Python3` and `BioPython`.
 
-**Running**
+**Running:**
 To run the program just run the script from the terminal along with the path to your FASTA file.
 ```
 python sequence_processor.py <input_file.fasta>
 ```
 
-**Output**
+**Output:**
 The script will print the results directly to the terminal.
